@@ -1,0 +1,14 @@
+apiVersion: v2
+name: helm-hlf-couchdb
+description: CouchDB instance for Hyperledger Fabric
+version: 1.0.0
+appVersion: 0.4.10
+keywords:
+  - blockchain
+  - hyperledger
+  - fabric
+  - couchdb
+home: http://hyperledger-fabric.readthedocs.io
+sources:
+  - https://github.com/its-software-services-devops/helm-hlf-couchdb
+icon: https://www.hyperledger.org/wp-content/uploads/2018/04/fabric-logo.png
